@@ -2,7 +2,7 @@
     "name": "saffepass/comsec",
     "description": "Secure Communications with Saffepass API",
     "type": "library",
-    "license": "LGPL",
+    "license": "LGPL-3.0-or-later",
     "authors": [
         {
             "name": "Gustavo Zaniboni",
