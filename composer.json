@@ -1,0 +1,17 @@
+{
+    "name": "saffepass/comsec",
+    "description": "Secure Communications with Saffepass API",
+    "type": "library",
+    "license": "LGPL",
+    "authors": [
+        {
+            "name": "Gustavo Zaniboni",
+            "email": "gustavo@saffepass.com.br"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {"Saffepass\\comsec\\": "src/"}
+    },
+    "require": {}
+}
